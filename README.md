@@ -31,7 +31,7 @@ Washington D.C., United States
 Link: https://www.csis.org/
 
 Research Assistant (November 2018 - November 2019)
-@ Data Management Center, Crane Center for Early Childhood Policy and Education
+@ Data Management Core, Crane Center for Early Childhood Policy and Education
 Columbus, OH., United States
 Link: https://crane.osu.edu/
 
