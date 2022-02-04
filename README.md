@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
-title: Jaehyun Han
-description: 
+# theme: jekyll-theme-minimal
+# title: Jaehyun Han
+# description: 
 
 ## Jaehyun Han's digital CV 
 Jaehyun Han
