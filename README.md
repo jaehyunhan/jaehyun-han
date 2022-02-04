@@ -1,9 +1,9 @@
-# theme: jekyll-theme-minimal
-# title: Jaehyun Han
-# description: 
+theme: jekyll-theme-minimal
+title: Jaehyun Han
+description: 
 
 ## Jaehyun Han's digital CV 
-Jaehyun Han
+# Jaehyun Han
 Research Assistant at the Center for Strategic and International Studies (CSIS) based in Washington D.C., United States.
 Link: https://www.csis.org/
 
