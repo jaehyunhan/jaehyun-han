@@ -18,7 +18,8 @@ Professional Experiences
 Research Assistant (January 2022 - Present)
 @ iDeas Lab, Center for Strategic and International Studies (CSIS)
 Washington D.C., United States 
-Link: https://www.csis.org/
+Link:https://www.csis.org/programs/dracopoulos-ideas-lab
+https://www.csis.org/
 
 
 Market Intelligence Analyst Fellow (August 2021 - December 2021)
