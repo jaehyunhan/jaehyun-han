@@ -2,25 +2,33 @@ theme: jekyll-theme-minimal
 title: Jaehyun Han
 description: 
 
-## Jaehyun Han's digital CV 
+
 # Jaehyun Han
 Research Assistant at the Center for Strategic and International Studies (CSIS) based in Washington D.C., United States.
 Link: https://www.csis.org/
+View my professional profile here https://www.csis.org/people/jaehyun-han
 
-Education
+Email | LinkedIn | Facebok | Twitter 
+
+### Education
 Bachelor of Science with Research Distinction, The Ohio State University (December 2020)
 Data Analytics (Social Science Analytics) and International Studies (International Relations and Diplomacy)
 * Thesis:
+* Capstone: 
 * Study Abroad:
-- 
+- 2018 Summer, Dublin, Ireland and Amman, Jordan- 
+- 2017 Summer, Seoul, South Korea- 
 
-Professional Experiences
+### Professional Experiences
 Research Assistant (January 2022 - Present)
 @ iDeas Lab, Center for Strategic and International Studies (CSIS)
 Washington D.C., United States 
 Link:https://www.csis.org/programs/dracopoulos-ideas-lab
 https://www.csis.org/
 
+Consultant/Research Assistant (December 2021 - Present)
+@ Global Insight
+https://www.g-insight.org/
 
 Market Intelligence Analyst Fellow (August 2021 - December 2021)
 @ Market Intelligence & Data Analytics Team, Rev1 Ventures 
@@ -40,4 +48,5 @@ Intern (Summer 2017)
 @ International Affairs Team, the Korea Chamber of Commerce and Industry
 Seoul, South Korea
 Link: http://www.korcham.net/nCham/Service/Main/appl/Main.asp
+
 
