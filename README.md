@@ -5,7 +5,7 @@ Research Assistant for the iDeas Lab at the [Center for Strategic and Internatio
 I conduct data-driven analysis to support the organization's research projects and publications related to the interational relations and security.<br/>
 View my professional profile [here](https://www.csis.org/people/jaehyun-han).
 
-Personal Email [:envelope:](jaehyunhan1109@gmail.com) | LinkedIn | Facebok | Twitter 
+Personal Email [:envelope:](jaehyunhan1109@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jaehyunhan1109/)  
 
 ### **Education**
 **Bachelor of Science** with Research Distinction, The Ohio State University *(December 2020)* <br/>
