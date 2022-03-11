@@ -14,7 +14,7 @@ View my professional profile [here](https://www.csis.org/people/jaehyun-han).
 
 ---
 
-:woman_student: ###**Education**
+### :woman_student: **Education**
 **Bachelor of Science** with Research Distinction, The Ohio State University *(December 2020)* <br/>
 Data Analytics (Social Science Analytics) and International Studies (International Relations and Diplomacy)
 * **Thesis**: Impact of Public Transit Access on Socioeconomic Disparity
