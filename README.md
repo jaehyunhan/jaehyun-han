@@ -1,7 +1,7 @@
 
 
 # **Jaehyun Han**
-![alt text](https://user-images.githubusercontent.com/45862440/157776424-2d24a1ee-7ad4-48f8-a209-de2b8f916163.jpg "Jaehyun Han Headshot") <br/>
+![alt text](<imag src = "https://user-images.githubusercontent.com/45862440/157776424-2d24a1ee-7ad4-48f8-a209-de2b8f916163.jpg" width - 50% height = 50%> "Jaehyun Han Headshot") <br/>
 Research Assistant for the iDeas Lab at the [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) based in Washington D.C., United States.<br/>
 I conduct data-driven analysis to support the organization's research projects and publications related to the interational relations and security.<br/>
 View my professional profile [here](https://www.csis.org/people/jaehyun-han).
