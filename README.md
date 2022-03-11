@@ -1,8 +1,7 @@
 
-## **Jaehyun Han**
 ![Jaehyun Han Profile Picture](https://user-images.githubusercontent.com/45862440/157793704-7a918de7-e6ae-4d31-a11d-6dad3320a830.jpg)
  <br/>
-Research Assistant for the iDeas Lab at the [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) based in Washington D.C., United States.<br/>
+*Hello-* I'm a Research Assistant for the iDeas Lab at the [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) based in Washington D.C., United States.<br/>
 <br/>
 View my professional profile [here](https://www.csis.org/people/jaehyun-han).
 
