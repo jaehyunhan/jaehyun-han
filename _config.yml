@@ -6,8 +6,10 @@ description: Data-driven analysis in international relations and security
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  About: "aboutme"
+  Project:
+    - TBA: ""
+  Others:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
