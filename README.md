@@ -9,8 +9,10 @@ Research Assistant for the iDeas Lab at the [Center for Strategic and Internatio
 View my professional profile [here](https://www.csis.org/people/jaehyun-han).
 <br/><br/>
 
-[Personal Email](jaehyunhan1109@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jaehyunhan1109/) | [Twitter](https://twitter.com/Jaehyunhan_)  
+[Email](jhan@csis.org) | [LinkedIn](https://www.linkedin.com/in/jaehyunhan1109/) | [Twitter](https://twitter.com/Jaehyunhan_)  
 <br/>
+
+---
 
 ### :woman_student: **Education**
 **Bachelor of Science** with Research Distinction, The Ohio State University *(December 2020)* <br/>
@@ -19,9 +21,10 @@ Data Analytics (Social Science Analytics) and International Studies (Internation
   - Advisors: Dr. Rudy Hightower, Dr. Jos C.N. Raadschelders, John Glenn College of Public Affairs 
 * **Capstone**: Scholarship data analysis to predict potential donors using machine learning algorithms
   - Sponsor: Office of Advancement, the Ohio State University
-* **Study Abroad**:
+* **Study Abroad**
   - Summer 2018: Foundation for International Education (Dublin, Ireland and Amman, Jordan) - Peace Studies and Conflict Resolution 
   - Summer 2017: Korea University (Seoul, South Korea) - Comparative Law, Political Economy
+---
 
 ### :bookmark_tabs: **Professional Experiences**
 **Research Assistant** @ [iDeas Lab](https://www.csis.org/programs/dracopoulos-ideas-lab), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2022 - Present)* <br/>
@@ -34,7 +37,7 @@ Washington D.C., United States
 Columbus, OH, United States
 * Researched key industry markets, trends, and venture deals, formulated analytical reports, and produced strategic briefings. <br/>
 
-**Research Intern** @ Office of Korea Chair, [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2021 - July 2021)* <br/>
+**Research Intern** @ [Office of Korea Chair](https://www.csis.org/programs/korea-chair), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2021 - July 2021)* <br/>
 Washington D.C., United States <br/>
 * Analyzed National Assembly electoral results and nationalist stances of 800+ candidates, using R and logistic regression, and produced an analytical report. 
 * Researched North Korean infrastructure and contributed to write a research briefing book.
@@ -48,14 +51,32 @@ Columbus, OH, United States
 Seoul, South Korea
 * Assisted dispatching economic delegation for South Korea's former President Moon Jae-In's first visit to D.C. <br/>
 
+---
+
 ### :pencil2: **On The Side**
 
+---
 
 ### :woman_technologist: **Technologies/Programs**
 R, Python, Java, C/++, SQL, SPSS, Microsoft, ArcGIS, QGIS, Tableau, DataWrapper, RAWGraph
 
-### :art: **Hobbies**
+---
+
+### :art: **Hobbies/Things I Enjoy**
+**Baking**: Huge fan of healthy-ish Levain-style cookies and muffins, as seen [here](). <br/>
+**Ceramics**: I'm a beginner potter! View [made-by-Jaehyun]() collection. <br/>
+**Personal Blog**: In 2021, I started a [personal blog](https://blog.naver.com/wogus981109) as a means to communicate with my family and friends back home in South Korea, at a more personal and vulnerable level -- just like an open diary. I try not to shy away from being myself in my writing, and it has tremendously helped me with writing, sorting out emotions, and mental health. The most common contents are my daily walks and home-made foods/bakery goods. <br/>
+**Time in Nature**: These are my favorite places to wonder around in [Seoul](https://www.google.com/maps/place/Bukhansan/@37.6608321,126.9845782,2727m/data=!3m2!1e3!4b1!4m5!3m4!1s0x357cbdd5b945eccf:0xfb9486536d6d79f9!8m2!3d37.660833!4d126.993333), [Columbus](https://www.google.com/maps/place/Blendon+Woods+Metro+Park/@40.07487,-82.9173907,10546m/data=!3m1!1e3!4m9!1m2!2m1!1sbrenden+woods+metro+park!3m5!1s0x8838606908985b07:0x42199958120751e6!8m2!3d40.07487!4d-82.8823718!15sChhicmVuZGVuIHdvb2RzIG1ldHJvIHBhcmtaGiIYYnJlbmRlbiB3b29kcyBtZXRybyBwYXJrkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSQmRrMVVMVmRCRUFF), and Washington D.C., but my all-time favorite is surely [here](https://www.google.com/maps/place/Chiri-san/@35.3369436,127.7218007,2811m/data=!3m2!1e3!4b1!4m5!3m4!1s0x356e4c7b8a83dafd:0x3f72563fe6e62f59!8m2!3d35.3369444!4d127.7305555). <br/> 
+
+---
 
 ### :left_speech_bubble: **Languages**
 **English**: Native-like fluency <br/>
 **Korean**: Native <br/>
+
+#
+<br/>
+
+This digital CV is maintained by [jaehyunhan](https://github.com/jaehyunhan) and inspired by [carolstran](https://workwithcarolyn.com/blog/digital-cv-guide)
+
+
