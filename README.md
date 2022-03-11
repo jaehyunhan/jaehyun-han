@@ -71,7 +71,7 @@ R, Python, Java, C/++, SQL, SPSS, Microsoft, ArcGIS, QGIS, Tableau, DataWrapper,
 
 ---
 
-### :left_speech_bubble **Languages**
+### 🗨️ **Languages**
 **English**: Native-like fluency <br/>
 **Korean**: Native <br/>
 
