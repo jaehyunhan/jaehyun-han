@@ -27,7 +27,7 @@ Data Analytics (Social Science Analytics) and International Studies (Internation
 
 ---
 
-### :bookmark_tabs: **Professional Experiences**
+### ::bookmark_tabs:: **Professional Experiences**
 **Research Assistant** @ [iDeas Lab](https://www.csis.org/programs/dracopoulos-ideas-lab), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2022 - Present)* <br/>
 Washington D.C., United States 
 * Developed a webscrapper for an open-source database using Python BeautifulSoup and deliver monthly reports to provide research resources.
@@ -54,16 +54,16 @@ Seoul, South Korea
 
 ---
 
-### :pencil2: **On The Side**
+### ::pencil2:: **On The Side**
 
 ---
 
-### :woman_technologist: **Technologies/Programs**
+### ::woman_technologist:: **Technologies/Programs**
 R, Python, Java, C/++, SQL, SPSS, Microsoft, ArcGIS, QGIS, Tableau, DataWrapper, RAWGraph
 
 ---
 
-### :art: **Hobbies/Things I Enjoy**
+### ::art:: **Hobbies/Things I Enjoy**
 **Baking**: Huge fan of healthy-ish Levain-style cookies and muffins, as seen [here](). <br/>
 **Ceramics**: I'm a beginner potter! View [made-by-Jaehyun]() collection. <br/>
 **Personal Blog**: In 2021, I started a [personal blog](https://blog.naver.com/wogus981109) as a means to communicate with my family and friends back home in South Korea, at a more personal and vulnerable level -- just like an open diary. I try not to shy away from being myself in my writing, and it has tremendously helped me with writing, sorting out emotions, and mental health. The most common contents are my daily walks and home-made foods/bakery goods. <br/>
@@ -71,7 +71,7 @@ R, Python, Java, C/++, SQL, SPSS, Microsoft, ArcGIS, QGIS, Tableau, DataWrapper,
 
 ---
 
-### :left_speech_bubble: **Languages**
+### ::left_speech_bubble:: **Languages**
 **English**: Native-like fluency <br/>
 **Korean**: Native <br/>
 
