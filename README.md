@@ -1,7 +1,3 @@
-theme: jekyll-theme-minimal
-title: Jaehyun Han 
-description: *Data-driven analysis in interational relations and security*
-View my professional profile [here](https://www.csis.org/people/jaehyun-han).
 
 <img src = "https://user-images.githubusercontent.com/45862440/157776424-2d24a1ee-7ad4-48f8-a209-de2b8f916163.jpg" width = 25% height = 25%> <br/>
 
@@ -11,6 +7,7 @@ View my professional profile [here](https://www.csis.org/people/jaehyun-han).
  <br/>
 Research Assistant for the iDeas Lab at the [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) based in Washington D.C., United States.<br/>
 <br/>
+View my professional profile [here](https://www.csis.org/people/jaehyun-han).
 
 [Email](jhan@csis.org) | [LinkedIn](https://www.linkedin.com/in/jaehyunhan1109/) | [Twitter](https://twitter.com/Jaehyunhan_)  
 <br/>
