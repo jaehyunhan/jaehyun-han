@@ -24,6 +24,7 @@ Data Analytics (Social Science Analytics) and International Studies (Internation
 * **Study Abroad**
   - Summer 2018: Foundation for International Education (Dublin, Ireland and Amman, Jordan) - Peace Studies and Conflict Resolution 
   - Summer 2017: Korea University (Seoul, South Korea) - Comparative Law, Political Economy
+
 ---
 
 ### :bookmark_tabs: **Professional Experiences**
@@ -74,9 +75,5 @@ R, Python, Java, C/++, SQL, SPSS, Microsoft, ArcGIS, QGIS, Tableau, DataWrapper,
 **English**: Native-like fluency <br/>
 **Korean**: Native <br/>
 
-#
-<br/>
-
-This digital CV is maintained by [jaehyunhan](https://github.com/jaehyunhan) and inspired by [carolstran](https://workwithcarolyn.com/blog/digital-cv-guide)
 
 
