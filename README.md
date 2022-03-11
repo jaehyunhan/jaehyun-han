@@ -2,7 +2,7 @@
 
 
 ## **Jaehyun Han**
-*Data-driven analysis for interational relations and security* <br/>
+*Data-driven analysis in interational relations and security* <br/>
 Research Assistant for the iDeas Lab at the [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) based in Washington D.C., United States.<br/>
 <br/>
 
