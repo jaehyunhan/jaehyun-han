@@ -14,7 +14,7 @@ View my professional profile [here](https://www.csis.org/people/jaehyun-han).
 
 ---
 
-### :woman_student: **Education**
+:woman_student: ###**Education**
 **Bachelor of Science** with Research Distinction, The Ohio State University *(December 2020)* <br/>
 Data Analytics (Social Science Analytics) and International Studies (International Relations and Diplomacy)
 * **Thesis**: Impact of Public Transit Access on Socioeconomic Disparity
@@ -27,7 +27,7 @@ Data Analytics (Social Science Analytics) and International Studies (Internation
 
 ---
 
-### ::bookmark_tabs:: **Professional Experiences**
+### :bookmark_tabs: **Professional Experiences**
 **Research Assistant** @ [iDeas Lab](https://www.csis.org/programs/dracopoulos-ideas-lab), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2022 - Present)* <br/>
 Washington D.C., United States 
 * Developed a webscrapper for an open-source database using Python BeautifulSoup and deliver monthly reports to provide research resources.
