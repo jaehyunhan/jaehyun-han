@@ -54,8 +54,8 @@ Seoul, South Korea
 
 ---
 
-## ** Public Speaking/Leadership**
-**[CSIS Journalism Bootcamp](https://journalism.csis.org/) Data Mentor**
+## 🔊 **Public Speaking/Leadership**
+**[CSIS Journalism Bootcamp](https://journalism.csis.org/) Data Mentor** <br/>
 Each year, CSIS hosts five sessions of a 1-week long intensive Journalism Bootcamp for current and rising journalists to produce multimedia reports surrounding critical international issues. During the workships, CSIS's iDeas Lab staff, including myself, serve as a mentor for the students in their respective fields such as broadcasting, web design, and data vsiualization.
 
 ---
