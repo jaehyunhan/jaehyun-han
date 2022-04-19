@@ -1,13 +1,3 @@
-{% case site.color-scheme %}
-  {% when "", nil, false, 0, empty %}
-    {% assign ColorScheme = "auto" %}
-  {% else %}
-    {% assign ColorScheme = site.color-scheme %}
-{% endcase %}
-
-{% assign assets_base_url = "https://cdn.jsdelivr.net/gh/jaehyunhan/jaehyunhan.github.io" %}
-{% assign theme_assets_base_url = "https://cdn.jsdelivr.net/gh/jaehyunhan/minimalist" %}
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -16,46 +6,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
-    {% if site.cdn.jsdelivr.enabled %}
-      <link rel="preload" href="{{ assets_base_url }}{{ site.logo }}" as="image">
-    {% else %}
-      <link rel="preload" href="{{ site.logo | relative_url }}" as="image">
-    {% endif %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
+    <link rel="preload" href="{{ "/assets/img/logo.png?v=" | append: site.github.build_revision | relative_url }}" as="image">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
     {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
       <div class="sidebar">
         <header>
-          {% if site.logo %}
-            {% if site.cdn.jsdelivr.enabled %}
-              <img class="img-circle" src="{{ assets_base_url }}{{ site.logo }}" alt="Logo">
-            {% else %}
-              <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">
-            {% endif %}
-          {% endif %}
+          <img class="img-circle" rel="prefetch" src={{ "/assets/img/logo.png?v=" | append: site.github.build_revision | relative_url }}>
+          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-          {% if site.blank_title %}
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          {% else %}
-            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-          {% endif %}
+          <!-- {% if site.logo %}
+            <img src="{{site.logo | relative_url}}" alt="Logo" />
+          {% endif %} -->
 
-          {% if site.email %}
-            <p class="addr"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align: -0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><path d="m22 6l-10 7L2 6"/></g></svg>&nbsp;{{ site.email }}</p>
-          {% endif %}
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-          <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
-          <p>Quantitative Analysis in International Affairs</p>
+          <!-- {% if site.github.is_project_page %}
+          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+          {% endif %}
+          {% if site.github.is_user_page %}
+          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+          {% endif %} -->
 
           {% include sidebar.html %}
 
         </header>
-
+        
         {% include links-mobile.html %}
 
         <div class="sidebar-footer">
@@ -68,13 +52,9 @@
 
       </section>
       <footer>
-        {%- include footer.html -%}
+        <p><small>Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/pages-themes/minimal">Minimal</a></small></p>
       </footer>
     </div>
-    {% if site.cdn.jsdelivr.enabled %}
-      <script src="{{ theme_assets_base_url }}{{ "/assets/js/scale.fix.min.js" }}"></script>
-    {% else %}
-      <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% endif %}
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
