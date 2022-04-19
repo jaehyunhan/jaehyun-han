@@ -11,8 +11,8 @@ View my professional profile [here](https://www.csis.org/people/jaehyun-han).
 ---
 
 ## 👩‍🎓 **Education**
-**Bachelor of Science** with Research Distinction, The Ohio State University *(December 2020)* <br/>
-Data Analytics (Social Science Analytics) and International Studies (International Relations and Diplomacy)
+**Bachelor of Science** in Data Analytics (Social Science Analytics) and International Studies (International Relations and Diplomacy) <br/>
+with Research Distinction, The Ohio State University *(December 2020)* 
 * **Thesis**: Impact of Public Transit Access on Socioeconomic Disparity
   - Advisors: Dr. Rudy Hightower, Dr. Jos C.N. Raadschelders, John Glenn College of Public Affairs 
 * **Capstone**: Scholarship data analysis to predict potential donors using machine learning algorithms
@@ -27,7 +27,7 @@ Data Analytics (Social Science Analytics) and International Studies (Internation
 **Research Assistant** @ [iDeas Lab](https://www.csis.org/programs/dracopoulos-ideas-lab), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2022 - Present)* <br/>
 Washington D.C., United States 
 * Developed a webscrapper for an open-source database using Python BeautifulSoup and deliver monthly reports to provide research resources.
-* Provide quantitative and qualitative research support and visualizations in Datawrapper and RAWGraphs, heavily focusing on China's naval forces and military development.
+* Provide quantitative and qualitative research support and visualizations in Datawrapper and RAWGraphs.
 * Conduct data analysis for research projects and operation, including center-wide DEI surveys, and deliver comprehensive analysis reports. <br/>
 
 **Market Intelligence Analyst Fellow** @ Market Intelligence & Data Analytics Team, [Rev1 Ventures](https://www.rev1ventures.com/) *(August 2021 - December 2021)* <br/>
@@ -66,8 +66,8 @@ R, Python, Java, C/++, SQL, SPSS, Microsoft, ArcGIS, QGIS, Tableau, DataWrapper,
 ---
 
 ## 🎨 **Hobbies/Things I Enjoy**
-**Baking**: Huge fan of healthy-ish Levain-style cookies and muffins, as seen [here](). <br/>
-**Ceramics**: I'm a beginner potter! View [made-by-Jaehyun]() collection. <br/>
+**Baking**: Huge fan of healthy-ish Levain-style cookies and muffins, as seen [here](https://www.instagram.com/jaehyunstimeandenergy). <br/>
+**Ceramics**: I'm a beginner potter! View made-by-Jaehyun collection [here](https://www.instagram.com/jaehyunstimeandenergy). <br/>
 **Personal Blog**: In 2021, I started a [personal blog](https://blog.naver.com/wogus981109) as a means to communicate with my family and friends back home in South Korea, at a more personal and vulnerable level -- just like an open diary. I try not to shy away from being myself in my writing, and it has tremendously helped me with writing, sorting out emotions, and mental health. The most common contents are my daily walks, home-made foods/bakery goods, and ideas for personal and professional growth. <br/>
 **Time in Nature**: These are my favorite places to wonder around in [Seoul](https://www.google.com/maps/place/Bukhansan/@37.6608321,126.9845782,2727m/data=!3m2!1e3!4b1!4m5!3m4!1s0x357cbdd5b945eccf:0xfb9486536d6d79f9!8m2!3d37.660833!4d126.993333), [Columbus](https://www.google.com/maps/place/Blendon+Woods+Metro+Park/@40.07487,-82.9173907,10546m/data=!3m1!1e3!4m9!1m2!2m1!1sbrenden+woods+metro+park!3m5!1s0x8838606908985b07:0x42199958120751e6!8m2!3d40.07487!4d-82.8823718!15sChhicmVuZGVuIHdvb2RzIG1ldHJvIHBhcmtaGiIYYnJlbmRlbiB3b29kcyBtZXRybyBwYXJrkgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSQmRrMVVMVmRCRUFF), and Washington D.C., but my all-time favorite is surely [here](https://www.google.com/maps/place/Chiri-san/@35.3369436,127.7218007,2811m/data=!3m2!1e3!4b1!4m5!3m4!1s0x356e4c7b8a83dafd:0x3f72563fe6e62f59!8m2!3d35.3369444!4d127.7305555). <br/> 
 
