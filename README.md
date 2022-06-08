@@ -27,6 +27,10 @@ with Research Distinction, The Ohio State University *(December 2020)*
 **Research Assistant** @ [iDeas Lab](https://www.csis.org/programs/dracopoulos-ideas-lab), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2022 - Present)* <br/>
 Washington D.C., United States 
 * Developed a webscrapper for an open-source database using Python BeautifulSoup and deliver monthly reports to provide research resources.
+* Significant founding contributions of 2 research initiatives: Hidden Reach and Pacific.
+* Pacific: researched historic records to establish a database and create kmz files to support initial screening of satellite imgery analysis. 
+* Part of establishing a data visualization guideline for the Center.
+* Recruited, trained, oversaw, and mentored research interns.   
 * Provide quantitative and qualitative research support and visualizations in Datawrapper and RAWGraphs.
 * Conduct data analysis for research projects and operation, including center-wide DEI surveys, and deliver comprehensive analysis reports. <br/>
 
