@@ -26,11 +26,12 @@ with Research Distinction, The Ohio State University *(December 2020)*
 ## 📑 **Professional Experiences**
 **Research Assistant** @ [iDeas Lab](https://www.csis.org/programs/dracopoulos-ideas-lab), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2022 - Present)* <br/>
 Washington D.C., United States 
-* Developed a webscrapper for an open-source database using Python BeautifulSoup and deliver monthly reports to provide research resources.
-* Significant founding contributions of 2 research initiatives: Hidden Reach and Pacific.
+* Developed a webscrapper for an open-source database using Python BeautifulSoup, delivered monthly update reports, provided quantitative and qualitative research support related to Chinese shipbuilding industry and the People's Liberation Army Navy (PLAN), and contributed to data analysis for the [report](https://features.csis.org/china-shadow-warships/) content.
+* Significant founding contributions for two research initiatives focusing on China's infrastructure development and military modernization projects: Hidden Reach and Pacific.
 * Pacific: researched historic records to establish a database and create kmz files to support initial screening of satellite imgery analysis. 
 * Part of establishing a data visualization guideline for the Center.
-* Recruited, trained, oversaw, and mentored research interns.   
+* Served as a data mentor for [CSIS Journalism Bootcamp](link to below) and provided guidance on using data for policy report prior to and during the program.  
+* Recruited, trained, oversaw, and mentored one to two research interns per semester.   
 * Provide quantitative and qualitative research support and visualizations in Datawrapper and RAWGraphs.
 * Conduct data analysis for research projects and operation, including center-wide DEI surveys, and deliver comprehensive analysis reports. <br/>
 
@@ -60,7 +61,8 @@ Seoul, South Korea
 
 ## 🔊 **Public Speaking/Leadership**
 **[CSIS Journalism Bootcamp](https://journalism.csis.org/) Data Mentor** <br/>
-Each year, CSIS hosts five sessions of one-week long intensive Journalism Bootcamp for current and rising journalists to produce multimedia reports on critical international issues. During the workshops, CSIS's iDeas Lab staff, including myself, serve as mentors in their respective areas such as broadcasting, web design, and data vsiualization.
+Each year, CSIS hosts four to five sessions of one-week long intensive Journalism Bootcamp for rising journalists, pursuing Bachelors and Masters degree, to produce multimedia reports on critical international issues. During the workshops, CSIS's iDeas Lab staff, including myself, serve as mentors in their respective areas such as broadcasting, web design, and data vsiualization.
+* 2022 DePaul
 
 ---
 
